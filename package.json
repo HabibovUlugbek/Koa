@@ -1,0 +1,21 @@
+{
+	"name": "koajs",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "nodemon server.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"koa": "^2.13.4",
+		"koa-ejs": "^4.3.0",
+		"koa-json": "^2.0.2",
+		"koa-router": "^10.1.1"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.16"
+	}
+}
